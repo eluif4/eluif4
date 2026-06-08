@@ -88,8 +88,8 @@ Want to check out what Gwens was able to produce in 30 mintues from just a singl
 
 **Speech-to-Text & AI Summarization System (IDF Meitav Call Center)**
 
-*Architecture & Pipeline EngineeringBatch Audio Ingestion:*
-* Orchestrated an automated backend data pipeline that periodically fetched large volumes of recorded call audio from Azure Blob Storage for high-throughput batch processing.
+*Architecture & Pipeline Engineering*
+* Batch Audio Ingestion: Orchestrated an automated backend data pipeline that periodically fetched large volumes of recorded call audio from Azure Blob Storage for high-throughput batch processing.
 * High-Volume Processing: Scaled the processing flow to successfully ingest, transcribe, and analyze thousands of calls per day, ensuring robust system stability under continuous heavy data loads.
 
 *Structured AI Analytics & CRM Integration*
