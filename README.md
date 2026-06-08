@@ -1,4 +1,4 @@
-<img width="3000" height="1000" alt="readme-header" src="https://github.com/user-attachments/assets/692ddf32-0af6-41f3-92df-2d57671c71f7" />
+<img alt="readme-header" src="https://github.com/user-attachments/assets/692ddf32-0af6-41f3-92df-2d57671c71f7" />
 
 I am a full-stack engineer and builder who transitions complex ideas into production ready software. My experience ranges from launching secure, high-traffic distributed applications to designing decoupled, AI driven SaaS architectures with active paying customers. I approach software with a fast execution, product first mindset, treating every technical constraint as a challenge to optimize for speed, maintainability, and scalability
 
@@ -25,17 +25,17 @@ Want to check out what Gwens was able to produce in 30 mintues from just a singl
   <tr>
     <td>
       <a href="https://youtu.be/Kyc6teD8lbQ" target="_blank"> 
-        <img width="1928" height="1072" alt="Group 1000001859" src="https://github.com/user-attachments/assets/c869917b-4110-4484-b60e-a3219fa2036e" />
+        <img alt="Group 1000001859" src="https://github.com/user-attachments/assets/c869917b-4110-4484-b60e-a3219fa2036e" />
       </a>
     </td>
     <td>
       <a href="https://youtu.be/mfSH2hFCuUk" target="_blank">
-        <img width="1928" height="1072" alt="Group 1000001862 (1)" src="https://github.com/user-attachments/assets/80d747c3-ab32-45bd-be0e-6fba47066e8c" />
+        <img alt="Group 1000001862 (1)" src="https://github.com/user-attachments/assets/80d747c3-ab32-45bd-be0e-6fba47066e8c" />
       </a>
     </td>
     <td>
       <a href="https://youtu.be/BB2485nLA8o" target="_blank">
-        <img width="1928" height="1072" alt="Group 1000001863 (1)" src="https://github.com/user-attachments/assets/3fc1294a-4f9d-4371-895f-9331247b11cd" />
+        <img alt="Group 1000001863 (1)" src="https://github.com/user-attachments/assets/3fc1294a-4f9d-4371-895f-9331247b11cd" />
       </a>
     </td>
   </tr>
