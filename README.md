@@ -1,4 +1,4 @@
-<img alt="readme-header" src="https://github.com/user-attachments/assets/692ddf32-0af6-41f3-92df-2d57671c71f7" />
+<img width="3000" height="1000" alt="readme-header" src="https://github.com/user-attachments/assets/9ad97f38-0715-49b4-93d6-0614f593f464" />
 
 I am a full-stack engineer and builder who transitions complex ideas into production ready software. My experience ranges from launching secure, high-traffic distributed applications to designing decoupled, AI driven SaaS architectures with active paying customers. I approach software with a fast execution, product first mindset, treating every technical constraint as a challenge to optimize for speed, maintainability, and scalability
 
